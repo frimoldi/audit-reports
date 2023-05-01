@@ -20,4 +20,5 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Telcoin](https://www.telco.in)|March 2023    | [📎](audits/2023.03.17%20-%20Final%20-%20Telcoin%20Update%20Audit%20Report.pdf)  |   |[hyh](https://twitter.com/0xhyh) |
 
